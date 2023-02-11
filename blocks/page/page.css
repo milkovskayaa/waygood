@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Roboto Regular";
+	src: url("../fonts/roboto-regular/roboto-regular.woff2") format("woff2"); /* Modern Browsers */
+	font-weight: normal;
+	font-style: normal;
+}
+
+.page {
+  min-width: 1280px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Roboto Regular";
+  background-color: #faf5e5;
+}
